@@ -7,9 +7,7 @@ Works:
 
 -------
 
-
 ## Homework 2
-
 
 0. Directory with whole homework - [**HERE**](https://github.com/botsula/visualisation_2021/tree/main/hw2)
 1. Notebook with code - [**HERE**](https://github.com/botsula/visualisation_2021/blob/main/hw2/notebook.ipynb)
@@ -30,8 +28,6 @@ Works:
 
 
 ## Homework 1
-
-#homework1
 
 0. Directory with whole homework - [**HERE**](https://github.com/botsula/visualisation_2021/tree/main/hw1)
 1. Notebook with code - [**HERE**](https://github.com/botsula/visualisation_2021/blob/main/hw1/homework1.ipynb)
