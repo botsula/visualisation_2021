@@ -4,8 +4,18 @@ Anna Botsula, APPS UCU, 2021
 Works:
 - [Homework 1](#homework-1)
 - [Homework 2](#homework-2)
-
+- [Homework 3](#homework-3)
+- [Homework 4](#homework-4)
+- [Homework 5](#homework-5)
+- [Homework 6](#homework-6)
 -------
+## Homework 3
+
+0. Directory with whole homework - [**HERE**](https://github.com/botsula/visualisation_2021/tree/main/hw3)
+1. Notebook with code - [**HERE**](https://github.com/botsula/visualisation_2021/blob/main/hw3/homeworrk.ipynb)
+2. Rendered HTML with result - [**HERE**](https://htmlpreview.github.io/?https://github.com/botsula/visualisation_2021/blob/main/hw3/homework.html)
+
+----
 
 ## Homework 2
 
