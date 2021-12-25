@@ -1,6 +1,8 @@
 # Visualisation Course Homeworks
 Anna Botsula, APPS UCU, 2021
 
+Final Project HTML: https://htmlpreview.github.io/?https://github.com/botsula/visualisation_2021/blob/main/final/project_final.html 
+
 Works:
 - [Homework 1](#homework-1)
 - [Homework 2](#homework-2)
